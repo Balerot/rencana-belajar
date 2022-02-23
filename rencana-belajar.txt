@@ -1,0 +1,4 @@
+Rencana Belajar
+- Konsisten untuk melakukan pengembangan pada bahasa pemrograman
+- Membuat website dengan front end yang menarik
+- Memahami bahasa pemrograman JavaScript
